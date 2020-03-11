@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strapi", "Strapi\Strapi.csproj", "{99F6D8C9-4EB0-4BE4-BF23-E795F9D0D0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F6D8C9-4EB0-4BE4-BF23-E795F9D0D0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F6D8C9-4EB0-4BE4-BF23-E795F9D0D0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F6D8C9-4EB0-4BE4-BF23-E795F9D0D0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F6D8C9-4EB0-4BE4-BF23-E795F9D0D0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82489484-02AE-4216-8FFD-97B0D3A65271}
+	EndGlobalSection
+EndGlobal
